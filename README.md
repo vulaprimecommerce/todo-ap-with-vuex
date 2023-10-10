@@ -1,6 +1,6 @@
 # todo-app-with-vuex
 
-> Todo App with Vuex
+> Todo App with Vuex.
 
 ## Build Setup
 
